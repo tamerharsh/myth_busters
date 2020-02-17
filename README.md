@@ -9,7 +9,7 @@ but the fact is that ip address can also be of the form
 
 [2]  a.b 
 
-[3] a .
+[3] a 
     
     For example https://112523  is a valid ip address.
 The demo code is present at single_number_ip
