@@ -2,8 +2,8 @@
 Myth Buster repository is about demos on small technical stuffs which gives more clarity about a topic .
 
 #  Single Number IP
-Often we assume that ip should be of the form a.b.c.d  where a , b,c and d are octal numbers . 
-but the fact is that ip address can also be of the form 
+Often we assume that ip should be of the form a.b.c.d  where a , b,c and d are decimal numbers in the range [0-255] . 
+but the fact is that ip address can also be of the form :-
 
 [1]  a.b.c 
 
